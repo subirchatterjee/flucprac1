@@ -33,4 +33,4 @@ spec:
           valueFrom:
             secretKeyRef:
               name: azure-auth
-              key: ARM_CLIENT_ID
+              key: ARM_TENANT_ID
